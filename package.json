@@ -1,6 +1,6 @@
 {
   "name": "GiveawayBot",
-  "version": "3.0.0",
+  "version": "16.20.2",
   "description": "Giveaway bot created with discord-giveaways package in discord.js v14",
   "main": "index.js",
   "scripts": {
